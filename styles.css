@@ -1,0 +1,42 @@
+body {
+    background-color: #f8f8f8;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.menu li {
+    list-style: none;
+    font-size: 20px;
+
+}
+.specifications {
+    list-style: none;
+
+}
+
+.discription {
+    font-size: 18px;
+    font-weight: 400;
+    background-color: #eaeaea;
+}
+.shortds {
+    color:  #707070;
+    font-size: 14px;
+    font-style: italic;
+    line-height: 16px;
+}
+.specifications, .longds {color: #484343;}
+.longds {
+    font-size: 16px;
+    line-height: 24px;
+    text-align: left;
+}
+.field {
+    height: 15px;
+    width: 150px;
+}
+.inffield {
+    font-size: 18px;
+    color: #484343;
+}
+header {text-align: center;}
+footer{text-align: center;}
+.catalogpage {border: 2px solid silver;}
